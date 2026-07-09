@@ -111,7 +111,7 @@ YT-Rag-Project/
 
 ├── requirements.txt
 
-├── .env.example
+├── .env
 
 ├── assets/
 
